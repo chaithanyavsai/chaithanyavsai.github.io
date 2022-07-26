@@ -283,9 +283,9 @@ h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 100vh;
-  background: url("../img/hero-bg.jpg") top right no-repeat;
-  background-size: cover;
+  height: 80vh;
+  background: url("../img/hero-bg1.gif") top right no-repeat;
+  background-size: auto;
   position: relative;
 
 }
