@@ -124,6 +124,21 @@ h6 {
     transition-delay: 0 !important;
   }
 }
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.column {
+  float: left;
+  width: 16.66%;
+  padding: 3px;
+}
+@media screen and (max-width: 768px) {
+  .column {
+    width: 100%;
+  }
+}
 
 /*--------------------------------------------------------------
 # Header
