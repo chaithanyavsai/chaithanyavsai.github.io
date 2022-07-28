@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #272829;
+  color: #0000A3;
 }
 
 a {
@@ -290,7 +290,7 @@ h6 {
   background: url("../img/home-bg.gif") top right no-repeat;
   background-size: auto;
   position: relative;
-
+  border-bottom: 1px solid #FFA500
 }
 
 @media (min-width: 992px) {
@@ -544,6 +544,9 @@ section {
   position: relative;
 }
 
+.resume .section-title p{
+  font-size: 20px;
+}
 .resume .resume-item h4 {
   line-height: 18px;
   font-size: 18px;
@@ -612,7 +615,7 @@ section {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #272829;
+  color: #0000A3;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
@@ -1028,6 +1031,10 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+.contact .section-title p {
+  font-size: 20px;
+  color: #FFA500;
+}
 .contact .info {
   width: 100%;
   background: #fff;
@@ -1059,7 +1066,7 @@ section {
   padding: 0 0 0 60px;
   margin-bottom: 0;
   font-size: 16px;
-  color: #000000;
+  color: #FFA500;
 }
 
 .contact .info .email,
@@ -1177,11 +1184,12 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #f7f8f9;
+  background: #ffffff;
   color: #0000A3;
   font-size: 18px;
   text-align: center;
   padding: 30px 0;
+  border-top: 1px solid #FFA500;
 }
 
 #footer h3 {
