@@ -1058,8 +1058,8 @@ section {
 .contact .info p {
   padding: 0 0 0 60px;
   margin-bottom: 0;
-  font-size: 14px;
-  color: #728394;
+  font-size: 16px;
+  color: #000000;
 }
 
 .contact .info .email,
@@ -1179,7 +1179,7 @@ section {
 #footer {
   background: #f7f8f9;
   color: #0000A3;
-  font-size: 14px;
+  font-size: 18px;
   text-align: center;
   padding: 30px 0;
 }
@@ -1194,8 +1194,8 @@ section {
 }
 
 #footer p {
-  font-size: 15;
-  font-style: italic;
+  font-size: 18;
+  font-style: normal;
   padding: 0;
   margin: 0 0 40px 0;
 }
@@ -1205,7 +1205,7 @@ section {
 }
 
 #footer .social-links a {
-  font-size: 18px;
+  font-size: 20px;
   display: inline-block;
   background: #FFA500;
   color: #fff;
@@ -1227,8 +1227,9 @@ section {
 
 #footer .copyright {
   margin: 0 0 5px 0;
+  font-size: 16px;
 }
 
 #footer .credits {
-  font-size: 13px;
+  font-size: 16px;
 }
