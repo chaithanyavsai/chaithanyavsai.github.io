@@ -596,6 +596,12 @@ section {
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
+.portfolio-wrap .img-fluid img
+{
+  width: 100%;
+  height: 100%;
+
+}
 
 .portfolio #portfolio-flters {
   padding: 0;
