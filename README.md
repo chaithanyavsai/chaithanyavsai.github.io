@@ -1,1 +1,1 @@
-# Chaithanya Vamshi Sai - Portfolio Website
+# Chaithanya Vamshi Sai
